@@ -9,3 +9,10 @@ h1 {
     font-size: 40px;
     font-style:serif;
 }
+h2 {
+    color:aqua
+}
+strong {
+    font-style:italic;
+    color:hotpink;
+}
